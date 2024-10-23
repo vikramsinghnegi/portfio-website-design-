@@ -20,3 +20,4 @@ To create a build file use
 ```html
 npm run build:tailwind
 ```
+LIVE VIEW  https://portfoliowebsitedesign1.netlify.app/
